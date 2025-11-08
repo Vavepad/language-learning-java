@@ -4,9 +4,9 @@ public class CourseGrade
 {
     public static void main(String[] args)
     {
-        int examWeight = 70;    // Percentage weight given to examination
-        int labWeight = 20;     // Percentage weight given to lab work
-        int hwWeight = 10;      // Percentage weight given to homework assignment
+        final int examWeight = 70;    // Percentage weight given to examination
+        final int labWeight = 20;     // Percentage weight given to lab work
+        final int hwWeight = 10;      // Percentage weight given to homework assignment
         double examScore;       // Examination score obtained by student
         double labScore;        // Lab score obtained by student
         double hwScore;         // Homework score obtained by student
