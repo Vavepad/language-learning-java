@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="+libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/+libs/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/core-2.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/tess4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/javase-2.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/comp102x_lib v2.1x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+libs/ghost4j-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

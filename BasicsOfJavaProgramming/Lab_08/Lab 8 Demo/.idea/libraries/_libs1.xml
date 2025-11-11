@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="+libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/javase-2.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/tess4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/comp102x_lib v2.1x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/core-2.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/ghost4j-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab 8 Demo/+libs/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
